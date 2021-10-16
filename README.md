@@ -1,2 +1,2 @@
 # v8-refreshtokenswithJWT
-Adding Refresh Tokens to our REST Api to get new tokens
+Adding Authorisation to our REST Api - Roles/Claims/Policy
